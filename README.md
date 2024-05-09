@@ -16,7 +16,7 @@ The objective of the micromouse competition is to design and build an autonomous
 - Chassis, wheels, and other mechanical components
 
 ## Simulation
-The robot's behavior and navigation algorithms were tested in simulation environments using software such as [Robotics Simulator](https://www.roboticsimulator.com/). Below are some screenshots from the simulation:
+The robot's behavior and navigation algorithms were tested in simulation environments using software . Below are some screenshots from the simulation:
 
 ![Simulation Photo](assets/4.png)
 
